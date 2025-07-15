@@ -1,0 +1,31 @@
+# 🐧 PENQUIN Token (PENQUIN)
+
+**Pen Qui Qui (PENQUIN)** is a community-driven ERC-20 token built on Ethereum.  
+It’s more than a meme — it’s a mission to take PenQuiQui to the moon 🚀🌕
+
+## 🔗 Token Details
+
+- **Name**: Pen Qui Qui  
+- **Symbol**: PENQUIN  
+- **Decimals**: 18  
+- **Total Supply**: 100,000,000,000 PENQUIN  
+- **Deployed At**: [0xc05202bb0bcd2e30ae68f596622ed00ca94556ba](https://etherscan.io/address/0xc05202bb0bcd2e30ae68f596622ed00ca94556ba)
+
+## 📄 Lightpaper
+
+[penquintoken.com Lightpaper](https://penquintoken.com/wp-content/uploads/2025/07/PENQUIN-Lightpaper.pdf)
+
+## 📦 Source Code
+
+- `contracts/PENQUIN.sol`
+
+## 🔒 Transparency
+
+- **500M PENQUIN tokens** are locked until **July 3, 2026**  
+- Contract source code is published and open under the MIT License
+
+## 🌐 Links
+
+- Website: [https://penquintoken.com](https://penquintoken.com)  
+- Telegram: [https://t.me/PenQuiQui](https://t.me/PenQuiQui)  
+- Twitter: [@PenQuiQui](https://x.com/PenQuiQui)
